@@ -1,0 +1,34 @@
+Total
+
+Image Recognition (poids : 20% ) --> 42 %
+	DB (poids : 50%) --> 5 % 
+
+	Détecter Aliment (poids : 50%) --> 80 %
+
+NLP	(poids : 35% ) --> 13.8%
+	DB (poids : 55%) --> 0.24%
+		Webscrapping (poids : 50% ) --> 0.1%
+		Table aliment (poids : 20% ) --> 0.5 
+		Processed aliment (poids : 30% ) --> 0.3 % 
+
+	Read Text (poids : 2%) --> 100%
+	Process Text (poids : 3%) --> 95%
+	Autocorrect (poids : 10%) --> 90%
+	NER (poids : 15% ) --> 0%
+	Analyse quantity and food (poids : 10%) --> 0%
+	Compute macro (poids : 5%) --> 0%
+	
+	Maybe : poids 0%
+		Autocomplete (poids : 10%) --> 0%
+		Summarize (poids : ) --> 0%
+	
+Return (poids : 5% ) --> 0%
+	Liste de vos aliments et leur valeurs nutritives 
+	Vous avez mangé ... kcal
+
+If photo (poids : 5% ) --> 0%
+	Quelle quantité de ... avez vous mangé ?
+
+Unit test (poids : 20% ) --> 0%
+	
+API pour website (poids : 15%) --> 0%

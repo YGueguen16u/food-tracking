@@ -1,0 +1,323 @@
+<div class="col-12 col-lg-4">
+<h2 class="h2 text-left ml-0 mb-16">
+Valeur nutritionnelle
+</h2>
+<div class="text-right font-subtitle mt-0 per-serving-title">
+par portion
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Valeur calorique</div>
+<div class="ml-auto  flex-column">
+<div>
+<span class="serving-calculator-table-value" id="serving-calculator-table-calories" data-value="1223.64" data-standard-value="309" data-base="2000">1.224</span> kcal
+</div>
+<div>
+<span class="serving-calculator-table-value" id="serving-calculator-table-kilojoule" data-value="5123.135952" data-standard-value="1293.7212" data-base="8373.6">5.123</span> kJ
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Lipides</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="106.92" data-standard-value="27" data-base="65">106,9</span> g
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0 child">Graisses saturées</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="45.69048" data-standard-value="11.538" data-base="22">45,7</span> g
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0 child">Graisses mono-insaturées</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="43.71048" data-standard-value="11.038" data-base="29">43,7</span> g
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0 child">Graisses polyinsaturées</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="1.93248" data-standard-value="0.488" data-base="15">1,9</span> g
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Glucides</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0" data-standard-value="0" data-base="268">0,0</span> g
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0 child">Sucre</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0" data-standard-value="0" data-base="50">0,0</span> g
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Protéine</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="65.34" data-standard-value="16.5" data-base="73">65,3</span> g
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Fibre alimentaire</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0" data-standard-value="0" data-base="300">0,0</span> g
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Cholestérol</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="281.16" data-standard-value="71" data-base="30">281,2</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Sodium</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0.26928" data-standard-value="0.068" data-base="550">0,3</span> g
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Eau</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="221.76" data-standard-value="56" data-base="2000">221,8</span> g
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<hr class="mb-0 d-lg-none">
+<h2 class="h2 text-left ml-0 mb-16">
+Vitamines
+</h2>
+<div class="text-right font-subtitle mt-0 per-serving-title">
+par portion
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Vitamine A</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0" data-standard-value="0" data-base="0.8">0,0</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Vitamine B1</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0.15444" data-standard-value="0.039" data-base="1.1">0,2</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Vitamine B11</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0.02772" data-standard-value="0.007" data-base="0.4">&lt; 0,1</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Vitamine B12</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0.010692" data-standard-value="0.0027" data-base="0.0025">&lt; 0,1</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Vitamine B2</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0.60984" data-standard-value="0.154" data-base="1.4">0,6</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Vitamine B3</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="18.14868" data-standard-value="4.583" data-base="16">18,1</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Vitamine B5</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="1.40184" data-standard-value="0.354" data-base="6">1,4</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Vitamine B6</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0.97416" data-standard-value="0.246" data-base="1.4">1,0</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Vitamine C</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0" data-standard-value="0" data-base="80">0,0</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Vitamine D</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0.001584" data-standard-value="0.0004" data-base="5">&lt; 0,1</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Vitamine E</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0.8316" data-standard-value="0.21" data-base="12">0,8</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Vitamine K</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0.006732" data-standard-value="0.0017" data-base="75">&lt; 0,1</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<hr class="mb-0 d-lg-none">
+<h2 class="h2 text-left ml-0 mb-16">
+Minéraux
+</h2>
+<div class="text-right font-subtitle mt-0 per-serving-title">
+par portion
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Calcium</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="47.52" data-standard-value="12" data-base="1000">47,5</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Cuivre</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0.24948" data-standard-value="0.063" data-base="1">0,2</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Fer</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="7.3656" data-standard-value="1.86" data-base="15">7,4</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Magnésium</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="63.36" data-standard-value="16" data-base="300">63,4</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Manganèse</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0.06732" data-standard-value="0.017" data-base="2">&lt; 0,1</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Phosphore</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="526.68" data-standard-value="133" data-base="700">526,7</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Potassium</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="922.68" data-standard-value="233" data-base="2000">922,7</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Sélénium</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="0.05148" data-standard-value="0.013" data-base="0.03">&lt; 0,1</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<div class="d-flex nutrition-row position-relative">
+<div class="font-subtitle light mt-0">Zinc</div>
+<div class="ml-auto ">
+<div>
+<span class="serving-calculator-table-value" data-value="14.3748" data-standard-value="3.63" data-base="7">14,4</span> mg
+</div>
+</div>
+<div class="position-absolute hover-border"></div>
+</div>
+<hr class="mb-0 d-lg-none">
+</div>
