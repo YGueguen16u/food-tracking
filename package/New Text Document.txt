@@ -1,6 +1,6 @@
-Total
+Total --> 13.2 %
 
-Image Recognition (poids : 20% ) --> 42 %
+Image Recognition (poids : 20% ) --> 42 % 
 	DB (poids : 50%) --> 5 % 
 
 	Détecter Aliment (poids : 50%) --> 80 %
